@@ -1,0 +1,22 @@
+{
+  "name": "delta-timer",
+  "version": "0.0.0",
+  "description": "A simple module for measuring time in animations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/delta-timer.git"
+  },
+  "keywords": [
+    "delta",
+    "time",
+    "measurement",
+    "animation"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
